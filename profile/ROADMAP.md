@@ -29,7 +29,7 @@ Expanding Current Capabilities
   - Inline code suggestions for issues
   - Multi-thread conversation handling
 
-## Phase 3: Automated Workflows (Months 3-6)
+## Phase 3: Automated Workflows (Months 4-6)
 - Core DevRel Automation
   - PR Management
   - Automated code review suggestions
@@ -42,7 +42,7 @@ Expanding Current Capabilities
   - Automated initial responses
   - Priority suggestions
 
-## Phase 4: Community Engagement (Months 6-9)
+## Phase 4: Community Engagement (Months 7-9)
 Community Features
 
 - Event notification system
@@ -79,7 +79,7 @@ Edge Optimization
 - Resource allocation
 - Performance tuning
 
-## Phase 8: Full Edge Deployment (Months 20-24)
+## Phase 7: Full Edge Deployment (Months 18-21)
 Production Edge System
 
 - Complete edge runtime
@@ -89,53 +89,54 @@ Production Edge System
 - Performance monitoring
 - Update management
 
-Key Milestones & Deliverables
+
+# Key Milestones & Deliverables
 Current
 
 ✅ RAG-based DevRel agent operational
 ✅ Multi-platform integration
 ✅ Basic Q&A capabilities
 
-Month 5
+Month 6
 
 ✅ Advanced DevRel automation
 ✅ Comprehensive PR & Issue management
 ✅ Enhanced platform integration
 
-Month 9
+Month 10
 
 ✅ Complete community engagement suite
 ✅ Analytics dashboard
 ✅ Performance metrics
 
-Month 18
+Month 20
 
 ✅ Full Edge AI deployment
 ✅ Local processing capability
 ✅ Enterprise-ready features
 
-Technical Requirements
-Current Phase
 
-Cloud infrastructure
-RAG implementation
-Platform APIs
-Analytics tools
+# Technical Requirements
+## Current Phase
 
-Edge Phase
+- Cloud infrastructure
+- RAG implementation
+- Platform APIs
+- Analytics tools
 
-16GB+ RAM
-M1/M2 Mac or equivalent
-100GB storage
-Edge runtime environment
+## Edge Phase
 
-Success Metrics
+- 16GB+ RAM
+- M Chips Apple or equivalent Nvidia GPUs or Edge Hardware
+- Edge runtime environment(Our own Rust runtime to squeeze performance from Edge devices)
 
-95% accurate responses to developer queries
-<2 minute average response time
-80% automation of routine DevRel tasks
-70% reduction in manual community management
-Post-Edge: 90% reduction in cloud costs
+# Success Metrics
+
+## 95% accurate responses to developer queries
+## <2 minute average response time
+## 80% automation of routine DevRel tasks
+## 80% reduction in manual community management
+## Post-Edge: 99% reduction in cloud costs
 
 
 This roadmap builds on our existing RAG-based DevRel agent and gradually transitions to Edge AI capabilities while maintaining and enhancing core functionalities.

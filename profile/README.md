@@ -64,6 +64,8 @@ We believe every organization should have their own DevRel agents running locall
 
 [Telegram](https://t.me/+ScRjg1m1h_JlZGJl)
 
+[Roadmap] (https://github.com/pyanoxyz/.github/blob/main/profile/ROADMAP.md)
+
 License
 Apache 2.0
 

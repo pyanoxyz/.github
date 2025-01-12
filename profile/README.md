@@ -1,4 +1,4 @@
-# Pyano: Edge AI-Powered DevRel Agent Framework
+# Pyano: DevRel Agent Orchestration Layer
 
 Transform your developer relations with privacy-first AI agents that run entirely on your local infrastructure.
 
@@ -62,9 +62,9 @@ We believe every organization should have their own DevRel agents running locall
 🤝 Join the Revolution
 
 ## Documentation
-[Twitter]
+[Twitter](https://x.com/pyano_fun)
+
 [Telegram](https://t.me/+ScRjg1m1h_JlZGJl)
-Contributing Guidelines
 
 License
 Apache 2.0

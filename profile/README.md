@@ -64,8 +64,9 @@ We believe every organization should have their own DevRel agents running locall
 
 [Telegram](https://t.me/+ScRjg1m1h_JlZGJl)
 
+[Website](https://pyano.fun)
 
 # Roadmap
-(https://github.com/pyanoxyz/.github/blob/main/profile/ROADMAP.md)
+https://github.com/pyanoxyz/.github/blob/main/profile/ROADMAP.md
 
 Built with ❤️ by the Pyano team for developers everywhere.

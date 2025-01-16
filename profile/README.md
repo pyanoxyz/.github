@@ -1,11 +1,13 @@
 # Pyano: DevRel Agents Framework
 
-A composable, resource-efficient framework for building DevRel AI agents, built with Rust.
+A composable, resource-efficient framework for building DevRel AI agents—built with Rust.
 
 ## 🚀 What is Pyano?
-Pyano is building the future of developer relations through two groundbreaking initiatives:
+Pyano is revolutionizing developer relations through two groundbreaking initiatives:
 
-### DevRel Agent Orchestration Layer: A platform where anyone can deploy AI agents to automate developer relationship tasks:
+
+### DevRel Agent Orchestration Layer 
+A platform where anyone can deploy AI agents to automate developer relationship tasks:
 
 - Automated GitHub issue triage and PR reviews
 - Intelligent responses to developer queries across Discord and Telegram
@@ -15,7 +17,8 @@ Pyano is building the future of developer relations through two groundbreaking i
 - Open source contibution rewards
 
 
-### Edge AI Framework: Run your DevRel agents locally with our cutting-edge framework:
+### Edge AI Framework
+Run your DevRel agents locally with our cutting-edge framework:
 
 Deploy agents on your own infrastructure
 Keep proprietary codebases and sensitive data private
@@ -25,7 +28,7 @@ Process data locally without cloud dependencies
 
 
 
-## 💡 Why Pyano?
+## 💡 Why choose Pyano?
 
 ### Privacy First
 

@@ -57,17 +57,15 @@ Process data locally without cloud dependencies
 
 ## 🔮 Future Vision
 We believe every organization should have their own DevRel agents running locally, processing proprietary codebases securely while maintaining privacy. Pyano makes this possible through our Edge AI framework, democratizing access to advanced DevRel automation.
-🤝 Join the Revolution
 
-## Documentation
+
+## Socials
 [Twitter](https://x.com/pyano_fun)
 
 [Telegram](https://t.me/+ScRjg1m1h_JlZGJl)
 
 
-# [Roadmap](https://github.com/pyanoxyz/.github/blob/main/profile/ROADMAP.md)
-
-License
-Apache 2.0
+# Roadmap
+(https://github.com/pyanoxyz/.github/blob/main/profile/ROADMAP.md)
 
 Built with ❤️ by the Pyano team for developers everywhere.

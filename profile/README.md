@@ -1,6 +1,6 @@
-# Pyano: DevRel Agent Orchestration Layer
+# Pyano: DevRel Agents Framework
 
-Transform your developer relations with privacy-first AI agents that run entirely on your local infrastructure.
+A composable, resource-efficient framework for building DevRel AI agents, built with Rust.
 
 ## 🚀 What is Pyano?
 Pyano is building the future of developer relations through two groundbreaking initiatives:

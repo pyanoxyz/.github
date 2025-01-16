@@ -6,8 +6,8 @@ A composable, resource-efficient framework for building DevRel AI agents—built
 Pyano is revolutionizing developer relations through two groundbreaking initiatives:
 
 
-### DevRel Agent Orchestration Layer 
-A platform where anyone can deploy AI agents to automate developer relationship tasks:
+### 1. DevRel Agent Orchestration Layer 
+A platform to deploy AI agents and automate key developer relationship tasks:
 
 - Automated GitHub issue triage and PR reviews
 - Intelligent responses to developer queries across Discord and Telegram
@@ -17,16 +17,14 @@ A platform where anyone can deploy AI agents to automate developer relationship 
 - Open source contibution rewards
 
 
-### Edge AI Framework
-Run your DevRel agents locally with our cutting-edge framework:
+### 2. Edge AI Framework
+Run DevRel agents locally with our cutting-edge framework:
 
-Deploy agents on your own infrastructure
-Keep proprietary codebases and sensitive data private
-Reduce operational costs significantly
-Maintain complete control over your AI models
-Process data locally without cloud dependencies
-
-
+- Deploy agents on your infrastructure: Keep proprietary code and sensitive data private.
+- Significant cost savings: Reduce operational costs by eliminating cloud dependencies.  
+- Full control over your AI models: Maintain complete autonomy.  
+- Privacy-first processing: Data is processed locally without reliance on the cloud. 
+---
 
 ## 💡 Why choose Pyano?
 
@@ -48,6 +46,7 @@ Process data locally without cloud dependencies
 - Extensible architecture
 - Custom agent development support
 - Integration with existing developer tools
+---
 
 ### 🛠 Features
 
@@ -57,11 +56,12 @@ Process data locally without cloud dependencies
 - Analytics Dashboard: Track engagement and agent performance
 - API Integration: Connect with your existing development tools
 - Resource Optimization: Efficient resource usage on local hardware
+---
 
-## 🔮 Future Vision
-We believe every organization should have their own DevRel agents running locally, processing proprietary codebases securely while maintaining privacy. Pyano makes this possible through our Edge AI framework, democratizing access to advanced DevRel automation.
+## 🔮 Our Vision for the Future  
+We believe every organization should run their own DevRel agents locally—securely processing proprietary codebases while preserving privacy. Pyano empowers this through our Edge AI framework, democratizing access to advanced DevRel automation.
 
-
+---
 ## Socials
 [Twitter](https://x.com/pyano_fun)
 

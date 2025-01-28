@@ -1,65 +1,65 @@
-# Pyano: DevRel Agents Framework
 
-A composable, resource-efficient framework for building DevRel AI agents—built with Rust.
+# Pyano: AI Workforce Framework
+A composable, resource-efficient framework for building your AI workforce—built with Rust.
 
 ## 🚀 What is Pyano?
 Pyano is revolutionizing developer relations through two groundbreaking initiatives:
 
+### 1. AI Agent Orchestration Layer
+A platform to deploy and coordinate specialized AI agents:
 
-### 1. DevRel Agent Orchestration Layer 
-A platform to deploy AI agents and automate key developer relationship tasks:
+- Real-time monitoring across multiple data sources
+- Intelligent analysis of onchain and offchain data
+- Automated insights generation and action implementation
+- Cross-platform data processing and synthesis
+- Pattern recognition and trend analysis
+- Smart resource allocation and task management
 
-- Automated GitHub issue triage and PR reviews
-- Intelligent responses to developer queries across Discord and Telegram
-- Proactive update notifications and documentation management
-- Technical content generation and maintenance
-- Developer feedback collection and analysis
-- Open source contibution rewards
+#### 2. On-Device AI Framework
+Run AI workforce locally with our edge computing framework:
 
+- Deploy agents on your infrastructure: Maintain complete data privacy and security
+- Efficient resource utilization: Optimize processing and reduce cloud costs
+- Customizable agent roles: Adapt to personal workflows and organizational needs
+- On-device processing: Work offline and ensure faster response times
+- Privacy-first architecture: Keep sensitive data under your control
+- Reduced network load: Process data at the source without constant cloud sync
+- Continuous operation: Work uninterrupted regardless of internet connectivity
 
-### 2. Edge AI Framework
-Run DevRel agents locally with our cutting-edge framework:
-
-- Deploy agents on your infrastructure: Keep proprietary code and sensitive data private.
-- Significant cost savings: Reduce operational costs by eliminating cloud dependencies.  
-- Full control over your AI models: Maintain complete autonomy.  
-- Privacy-first processing: Data is processed locally without reliance on the cloud. 
----
 
 ## 💡 Why choose Pyano?
 
-### Privacy First
+### Privacy & Security
+- Process sensitive data within your infrastructure
+- Complete control over information flow
+- Secure agent-to-agent communication
 
-- Your code, conversations, and developer data never leave your infrastructure
-- Complete control over sensitive information
-- Compliance with data protection regulations
+### Resource Optimization
+- Efficient local and cloud processing
+- Scalable agent deployment
+- Intelligent resource allocation
 
-### Cost-Effective
-
-- Eliminate expensive cloud AI service subscriptions
-- Utilize existing hardware resources
-- Scale efficiently with your needs
-
-### Developer-Centric
-
-- Open-source foundation
-- Extensible architecture
-- Custom agent development support
-- Integration with existing developer tools
+### Adaptable Architecture
+- Customizable agent roles and capabilities
+- Seamless integration with existing systems
+- Flexible deployment options
+  
 ---
 
 ### 🛠 Features
 
-- Local Model Finetuning : Train agents on your codebase while maintaining privacy
-- Multi-Platform Support: Deploy across GitHub, Discord, Telegram, and more
-- Customizable Workflows: Tailor agent behavior to your DevRel needs
-- Analytics Dashboard: Track engagement and agent performance
-- API Integration: Connect with your existing development tools
+- Specialized Agent Roles: Customize agents for individual productivity and organizational workflows
+- Multi-Source Integration: Connect with diverse data sources
+- Collaborative Intelligence: Enable agent-to-agent communication
+- Performance Analytics: Monitor agent effectiveness
+- Scalable Architecture: Grow your AI workforce as needed
 - Resource Optimization: Efficient resource usage on local hardware
+
+
 ---
 
-## 🔮 Our Vision for the Future  
-We believe every organization should run their own DevRel agents locally—securely processing proprietary codebases while preserving privacy. Pyano empowers this through our Edge AI framework, democratizing access to advanced DevRel automation.
+## 🔮 Our Vision for the Future
+We believe individuals and organizations should harness the power of autonomous AI agents—transforming how they process, analyze, and act on data while maintaining security and efficiency. Pyano enables this through our comprehensive framework, making advanced AI capabilities accessible to everyone, from individual innovators to large enterprises.
 
 ---
 ## Socials

@@ -3,7 +3,7 @@
 A composable, resource-efficient framework for building your AI workforce—built with Rust.
 
 ## 🚀 What is Pyano?
-Pyano is revolutionizing developer relations through two groundbreaking initiatives:
+Pyano transforms personal productivity and organizational operations through an interconnected system of AI agents that operate both in the cloud and on-device:
 
 ### 1. AI Agent Orchestration Layer
 A platform to deploy and coordinate specialized AI agents:

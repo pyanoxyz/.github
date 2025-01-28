@@ -5,7 +5,7 @@ A composable, resource-efficient framework for building your AI workforce—buil
 ## 🚀 What is Pyano?
 Pyano transforms personal productivity and organizational operations through an interconnected system of AI agents that operate both in the cloud and on-device:
 
-### 1. AI Agent Orchestration Layer
+#### 1. AI Agent Orchestration Layer
 A platform to deploy and coordinate specialized AI agents:
 
 - Real-time monitoring across multiple data sources
